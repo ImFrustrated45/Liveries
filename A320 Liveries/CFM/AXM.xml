@@ -4,7 +4,7 @@
 	<sim>
 		<model>
 			<livery>
-				<name>AirAsia (WIP)</name>
+				<name>AirAsia (9M-AHV)</name>
 				<texture-fuselage>AXM.png</texture-fuselage>
 				<texture-engine>AXM-engine.png</texture-engine>
 				<texture-placards>Fuselage/res/placards.png</texture-placards>
@@ -21,9 +21,9 @@
 			<perf-factor>+1.0</perf-factor>
 		</company-options>
 		<model-options>
-			<registration type="string">N211US</registration>
-			<three-letter type="string">AAL</three-letter>
-			<two-letter type="string">AA</two-letter>
+			<registration type="string">9M-AHV</registration>
+			<three-letter type="string">AXM</three-letter>
+			<two-letter type="string">AK</two-letter>
 			<sharklet type="bool">0</sharklet>
 			<wifi-aft type="bool">0</wifi-aft>
 			<wifi-fwd type="bool">1</wifi-fwd>
