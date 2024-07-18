@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+			<name type="string">EVA Shining Star</name>
+            <texture>Liveries-300ER/EVA-Shining.png</texture>
+        </livery>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>EVA</aircraft-operator>
+    <aircraft-registration>B-177522</aircraft-registration>
+    <aircraft-SELCAL>DF-BS</aircraft-SELCAL>
+</sim>
+</PropertyList>
